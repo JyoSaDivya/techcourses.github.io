@@ -17,6 +17,7 @@ font-family:sans-serif;
 }
 .list-group-item2
 {
+ margin-left:10px;   
 width: 25%;
 height: 280px;
 float:left;
