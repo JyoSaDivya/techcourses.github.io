@@ -1,0 +1,60 @@
+body{
+    background-color:gainsboro;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.list-group-item1
+{
+    
+float:left;
+color:black;
+width: 25%;
+height: 280px;
+text-decoration: none;
+font-family:sans-serif;
+
+}
+.list-group-item2
+{
+width: 25%;
+height: 280px;
+float:left;
+color:black;
+text-decoration: none;
+font-family:sans-serif;
+
+}
+.list-group-item3
+{
+float:left;
+color:black;
+text-decoration: none;
+width: 25%;
+height: 280px;
+font-family: sans-serif;
+}
+
+.img1
+{
+height:196px;
+width:258px;
+}
+
+.img2
+{
+height:196px;
+width:258px;
+}
+.img3
+{
+height:196px;
+width:258px;
+}
+fieldset{
+
+    border-style:hidden;
+}
+h1{
+    float:rtl;
+}
